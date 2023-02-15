@@ -1,0 +1,48 @@
+body{
+    background-color: #A0C3D2;
+    text-align: center;
+}
+
+h2{
+    color: #8EA7E9;
+}
+
+.main{
+    position: relative;
+}
+
+.top{
+
+}
+
+.middle{
+    background-color: white;
+    height:400px;
+    width: 20%;
+    margin: 200px auto;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+
+.bottom{
+
+}
+
+.qr-code {
+background-color: #0081C9;
+width: 90%;
+margin: auto;
+padding-top: 10px;
+height: 250px;
+border-radius: 15px;
+position: relative;
+}
+
+#photo{
+    width: 90%;
+    margin: auto;
+    mix-blend-mode: multiply;
+    position: absolute;
+    left: 10px;
+    filter: white(100%);
+}
